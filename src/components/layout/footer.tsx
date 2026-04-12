@@ -20,7 +20,7 @@ export function Footer() {
           </a>
           <Separator orientation="vertical" className="h-4" />
           <a
-            href="https://x.com/Santosh Kumarcode"
+            href="https://x.com/Raj_Yadav_620"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground transition-colors hover:text-foreground"

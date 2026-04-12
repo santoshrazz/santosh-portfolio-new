@@ -42,7 +42,7 @@ export function Contact() {
                   GitHub
                 </a>
                 <a
-                  href="https://x.com/Santosh Kumarcode"
+                  href="https://x.com/Raj_Yadav_620"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={buttonVariants({ variant: "outline", size: "lg" })}

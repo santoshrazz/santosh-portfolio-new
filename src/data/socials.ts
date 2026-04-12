@@ -12,7 +12,7 @@ export const socials: Social[] = [
   },
   {
     name: "X / Twitter",
-    url: "https://x.com/Santosh Kumarcode",
+    url: "https://x.com/Raj_Yadav_620",
     icon: "Twitter",
   },
 ];

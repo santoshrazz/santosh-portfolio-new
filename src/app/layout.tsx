@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     title: "Santosh Kumar — AI Engineer",
     description:
       "AI engineer building intelligent systems, from LLMs to computer vision.",
-    creator: "@Santosh Kumarcode",
+    creator: "@Santosh Kumar",
   },
 };
 

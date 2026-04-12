@@ -104,7 +104,7 @@ export function Hero() {
               <GithubIcon className="h-5 w-5" />
             </a>
             <a
-              href="https://x.com/Santosh Kumarcode"
+              href="https://x.com/Raj_Yadav_620"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Twitter"

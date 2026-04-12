@@ -8,35 +8,19 @@ export interface Experience {
 
 export const experiences: Experience[] = [
   {
-    company: "DeepMind",
-    role: "Senior AI Research Engineer",
-    period: "2023 — Present",
+    company: "Walsis E-Connect India Pvt. Ltd.",
+    role: "Full-Stack Developer",
+    period: "2023 — 2024",
     description:
-      "Leading research on multi-modal foundation models. Built internal tooling for large-scale distributed training across TPU pods.",
-    tech: ["JAX", "TPU", "Transformers", "Python"],
+      "Led development and maintenance of platforms like sarthaks.com (20M+ users) and quizard.app (200K+ users). Implemented scalable architectures and optimized performance to handle high user traffic efficiently.",
+    tech: ["Next.js", "Node.js", "Fastify", "MySQL"],
   },
   {
-    company: "OpenAI",
-    role: "ML Platform Engineer",
-    period: "2021 — 2023",
+    company: "Codebucket Solution Pvt. Ltd.",
+    role: "Full-Stack Developer",
+    period: "2024 — Present",
     description:
-      "Designed and scaled inference infrastructure for GPT models. Reduced latency by 40% through model optimization and caching strategies.",
-    tech: ["Python", "Kubernetes", "CUDA", "Redis"],
-  },
-  {
-    company: "Scale AI",
-    role: "Full-Stack ML Engineer",
-    period: "2020 — 2021",
-    description:
-      "Built data labeling pipelines and quality assurance systems for computer vision datasets. Shipped annotation tools used by 5k+ labelers.",
-    tech: ["React", "Python", "FastAPI", "PostgreSQL"],
-  },
-  {
-    company: "Hugging Face",
-    role: "Open Source Engineer (Intern)",
-    period: "2019 — 2020",
-    description:
-      "Contributed to the Transformers library. Implemented model architectures and wrote documentation for community adoption.",
-    tech: ["PyTorch", "Transformers", "TypeScript", "Docker"],
+      "Designed and scaled backend systems, improving performance and reducing latency by 40% through optimization and caching strategies. Built and deployed robust, containerized applications for production environments.",
+    tech: ["Docker", "Kubernetes", "PostgreSQL", "Redis"],
   },
 ];
