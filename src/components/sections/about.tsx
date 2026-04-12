@@ -7,10 +7,10 @@ import { FadeIn } from "@/components/motion/fade-in";
 import { Card, CardContent } from "@/components/ui/card";
 
 const stats = [
-  { label: "Projects Shipped", value: "30+" },
-  { label: "Years Experience", value: "5+" },
-  { label: "Models Trained", value: "100+" },
-  { label: "Papers Read", value: "∞" },
+  { label: "Projects Delivered", value: "30+" },
+  { label: "Clients Worked With", value: "10+" },
+  { label: "Years Experience", value: "4+" },
+  { label: "Code Commits", value: "5K+" },
 ];
 
 export function About() {
@@ -55,8 +55,8 @@ export function About() {
 > Santosh Kumar
 
 $ cat skills.txt
-> pytorch, langchain, nextjs,
-> kubernetes, python, typescript
+> typescript, nextjs, node.js
+> docker, kubernetes, aws
 
 $ echo $STATUS
 > building the future`}
