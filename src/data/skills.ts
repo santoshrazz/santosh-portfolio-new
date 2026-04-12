@@ -11,29 +11,29 @@ export interface SkillCategory {
 
 export const skillCategories: SkillCategory[] = [
   {
-    category: "AI / Machine Learning",
-    icon: "Brain",
+    category: "Frontend Development",
+    icon: "Monitor",
     skills: [
-      { name: "PyTorch", level: 95 },
-      { name: "LangChain", level: 90 },
-      { name: "Transformers", level: 88 },
-      { name: "Computer Vision", level: 85 },
-      { name: "MLOps", level: 82 },
-    ],
-  },
-  {
-    category: "Web Development",
-    icon: "Globe",
-    skills: [
-      { name: "TypeScript", level: 93 },
       { name: "React / Next.js", level: 92 },
-      { name: "Node.js", level: 88 },
-      { name: "Python", level: 95 },
-      { name: "Go", level: 75 },
+      { name: "TypeScript", level: 93 },
+      { name: "JavaScript (ES6+)", level: 95 },
+      { name: "HTML5 / CSS3", level: 90 },
+      { name: "Tailwind CSS", level: 88 },
     ],
   },
   {
-    category: "Infrastructure",
+    category: "Backend Development",
+    icon: "Database",
+    skills: [
+      { name: "Node.js", level: 88 },
+      { name: "Express.js", level: 85 },
+      { name: "Python (Django / FastAPI)", level: 90 },
+      { name: "REST APIs", level: 92 },
+      { name: "GraphQL", level: 80 },
+    ],
+  },
+  {
+    category: "Infrastructure & DevOps",
     icon: "Server",
     skills: [
       { name: "Docker", level: 90 },
